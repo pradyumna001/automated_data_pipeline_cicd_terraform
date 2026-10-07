@@ -16,7 +16,7 @@ This project is designed to be learned **incrementally**. Start simple and add c
 
 1. **Level 1: Core Pipeline** (30 min) - Local ETL with PySpark
 2. **Level 2: Orchestration** (1 hour) - Airflow scheduling
-3. **Level 3: IaC** (2 hours) - Terraform infrastructure
+3. **Level 3: IaC** (2 hours) - Terraform infrastructure.
 4. **Level 4: CI/CD** (2 hours) - GitHub Actions automation
 
 📖 **Start here**: Read [INCREMENTAL_GUIDE.md](INCREMENTAL_GUIDE.md) for detailed instructions.
